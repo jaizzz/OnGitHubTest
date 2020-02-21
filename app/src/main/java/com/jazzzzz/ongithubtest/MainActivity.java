@@ -20,4 +20,11 @@ public class MainActivity extends AppCompatActivity {
     void tst(){
         System.out.println("test");
     }
+    void t(){
+        System.out.println("t");
+    }
+    void tt(){
+
+    }
+
 }
