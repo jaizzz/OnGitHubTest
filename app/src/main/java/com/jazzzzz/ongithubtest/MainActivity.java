@@ -14,5 +14,10 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("hello git");
         System.out.println("updated on 21-feb-2020");
 
+
+    }
+
+    void tst(){
+        System.out.println("test");
     }
 }
