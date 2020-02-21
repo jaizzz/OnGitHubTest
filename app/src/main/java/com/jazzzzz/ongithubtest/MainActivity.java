@@ -23,4 +23,8 @@ public class MainActivity extends AppCompatActivity {
     void t(){
         System.out.println("t");
     }
+    void tt(){
+        
+    }
+
 }
